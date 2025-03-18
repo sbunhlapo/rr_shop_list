@@ -18,7 +18,7 @@ A simple app to manage your grocery and shopping list!
 <IfModule mod_rewrite.c>
     Options -Multiviews
     RewriteEngine On 
-    RewriteBase /demos/mishoppi/public
+    RewriteBase /yourserver/mishoppi/public
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
@@ -29,4 +29,3 @@ A simple app to manage your grocery and shopping list!
 2.  Log in.
 3.  Create add new product to list
 4.  View, edit, and delete your product.
-
