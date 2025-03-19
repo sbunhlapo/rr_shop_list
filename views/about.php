@@ -5,7 +5,7 @@
         <li class="list-group-item">Login, Authentication and Session Management</li>
         <li class="list-group-item">Account Creation</li>
         <li class="list-group-item">Data Tables JS</li>
-        <li class="list-group-item">Boostrap 5.3.3</li>
+        <li class="list-group-item">Bootstrap 5.3.3</li>
         <li class="list-group-item">Fontawesome</li>
         <li class="list-group-item">Custom Style Sheet and Java Script</li>
         <li class="list-group-item">Vanilla PHP PDO / OOP Functions</li>
