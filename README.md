@@ -11,7 +11,7 @@ A simple app to manage your grocery and shopping list!
 7. Custom Style Sheet and Java Script
 8. Vanilla PHP PDO / OOP Functions
 9. MySQL Database
-10 Apache Server with custom .htaccess for routing
+10. Apache Server with custom .htaccess for routing
 
 ## .htaccess 
 
